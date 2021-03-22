@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/My-newest-app/static/css/main.2cddf415.chunk.css",
+    "main.js": "/My-newest-app/static/js/main.53d12a4b.chunk.js",
+    "main.js.map": "/My-newest-app/static/js/main.53d12a4b.chunk.js.map",
+    "runtime-main.js": "/My-newest-app/static/js/runtime-main.2046152b.js",
+    "runtime-main.js.map": "/My-newest-app/static/js/runtime-main.2046152b.js.map",
+    "static/js/2.e2af1979.chunk.js": "/My-newest-app/static/js/2.e2af1979.chunk.js",
+    "static/js/2.e2af1979.chunk.js.map": "/My-newest-app/static/js/2.e2af1979.chunk.js.map",
+    "index.html": "/My-newest-app/index.html",
+    "static/css/main.2cddf415.chunk.css.map": "/My-newest-app/static/css/main.2cddf415.chunk.css.map",
+    "static/js/2.e2af1979.chunk.js.LICENSE.txt": "/My-newest-app/static/js/2.e2af1979.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2046152b.js",
+    "static/js/2.e2af1979.chunk.js",
+    "static/css/main.2cddf415.chunk.css",
+    "static/js/main.53d12a4b.chunk.js"
+  ]
+}
