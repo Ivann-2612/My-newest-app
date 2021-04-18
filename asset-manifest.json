@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/My-newest-app/static/css/main.f8258951.chunk.css",
-    "main.js": "/My-newest-app/static/js/main.c9aa1fd1.chunk.js",
-    "main.js.map": "/My-newest-app/static/js/main.c9aa1fd1.chunk.js.map",
+    "main.css": "/My-newest-app/static/css/main.d5ee48ef.chunk.css",
+    "main.js": "/My-newest-app/static/js/main.222005ef.chunk.js",
+    "main.js.map": "/My-newest-app/static/js/main.222005ef.chunk.js.map",
     "runtime-main.js": "/My-newest-app/static/js/runtime-main.2046152b.js",
     "runtime-main.js.map": "/My-newest-app/static/js/runtime-main.2046152b.js.map",
     "static/js/2.1b56482c.chunk.js": "/My-newest-app/static/js/2.1b56482c.chunk.js",
     "static/js/2.1b56482c.chunk.js.map": "/My-newest-app/static/js/2.1b56482c.chunk.js.map",
     "index.html": "/My-newest-app/index.html",
-    "static/css/main.f8258951.chunk.css.map": "/My-newest-app/static/css/main.f8258951.chunk.css.map",
+    "static/css/main.d5ee48ef.chunk.css.map": "/My-newest-app/static/css/main.d5ee48ef.chunk.css.map",
     "static/js/2.1b56482c.chunk.js.LICENSE.txt": "/My-newest-app/static/js/2.1b56482c.chunk.js.LICENSE.txt",
     "static/media/logo.dfce4ea7.png": "/My-newest-app/static/media/logo.dfce4ea7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2046152b.js",
     "static/js/2.1b56482c.chunk.js",
-    "static/css/main.f8258951.chunk.css",
-    "static/js/main.c9aa1fd1.chunk.js"
+    "static/css/main.d5ee48ef.chunk.css",
+    "static/js/main.222005ef.chunk.js"
   ]
 }
